@@ -76,16 +76,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "8553015994ba5ea9c17b0ebb7dba75b65bfa3036",
     "author": "unknown",
     "commit": {
       "date": "2026-02-17T18:41:38.000Z",
       "message": "feat: implementaccion el prefijo sr o sra. segun el genero de la persona",
-      "url": "https://github.com/Andres004/saludador-1/commit/HEAD"
+      "url": "https://github.com/Andres004/saludador-1/commit/8553015994ba5ea9c17b0ebb7dba75b65bfa3036"
     },
     "stats": {
       "total": 22,
       "additions": 19,
+      "deletions": 3,
+      "date": "2026-02-17"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "unknown",
+    "commit": {
+      "date": "2026-02-17T18:49:33.000Z",
+      "message": "feat: implementacon de edad para el saludo",
+      "url": "https://github.com/Andres004/saludador-1/commit/HEAD"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 12,
       "deletions": 3,
       "date": "2026-02-17"
     },
