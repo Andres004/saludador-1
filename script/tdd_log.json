@@ -36,9 +36,15 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ced49f286672f6cb6f38e1e800afad162f97db52",
     "commitName": "fix: correccion de la funcion saludar, en saludador.js",
     "commitTimestamp": 1771354375062,
     "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementacon de idioma para el saludo",
+    "commitTimestamp": 1771355113201,
+    "testId": 7
   }
 ]

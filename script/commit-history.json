@@ -114,17 +114,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "ced49f286672f6cb6f38e1e800afad162f97db52",
     "author": "unknown",
     "commit": {
       "date": "2026-02-17T18:52:54.000Z",
       "message": "fix: correccion de la funcion saludar, en saludador.js",
-      "url": "https://github.com/Andres004/saludador-1/commit/HEAD"
+      "url": "https://github.com/Andres004/saludador-1/commit/ced49f286672f6cb6f38e1e800afad162f97db52"
     },
     "stats": {
       "total": 6,
       "additions": 3,
       "deletions": 3,
+      "date": "2026-02-17"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "unknown",
+    "commit": {
+      "date": "2026-02-17T19:05:11.000Z",
+      "message": "feat: implementacon de idioma para el saludo",
+      "url": "https://github.com/Andres004/saludador-1/commit/HEAD"
+    },
+    "stats": {
+      "total": 44,
+      "additions": 39,
+      "deletions": 5,
       "date": "2026-02-17"
     },
     "coverage": 100,
