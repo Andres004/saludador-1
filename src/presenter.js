@@ -33,12 +33,14 @@ formMultiply.addEventListener("submit", (event) => {
 
 const formSaludar = document.querySelector("#saludar-form");
 const nombreInput = document.querySelector("#nombre-input");
+const generoSelect = document.querySelector("#genero-select");
 const divSaludar = document.querySelector("#resultado-saludo-div");
 
 formSaludar.addEventListener("submit", (event) => {
   event.preventDefault();
   const nombre = nombreInput.value;
+  const genero = generoSelect.value;
   const fechaActual = new Date();
   const horaActual = fechaActual.getHours();
-  divSaludar.innerHTML = "<p>" + saludar(nombre,horaActual) + "</p>";
+  divSaludar.innerHTML = "<p>" + saludar(nombre,horaActual,genero) + "</p>";
 });

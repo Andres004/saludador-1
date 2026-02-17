@@ -57,17 +57,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "ded6511c34a0b00696517060c75f95c1be50de7e",
     "author": "unknown",
     "commit": {
       "date": "2026-02-17T18:31:51.000Z",
       "message": "fix: correccion de return en la funcion saludar en saludador.js",
-      "url": "https://github.com/Andres004/saludador-1/commit/HEAD"
+      "url": "https://github.com/Andres004/saludador-1/commit/ded6511c34a0b00696517060c75f95c1be50de7e"
     },
     "stats": {
       "total": 4,
       "additions": 2,
       "deletions": 2,
+      "date": "2026-02-17"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "unknown",
+    "commit": {
+      "date": "2026-02-17T18:41:38.000Z",
+      "message": "feat: implementaccion el prefijo sr o sra. segun el genero de la persona",
+      "url": "https://github.com/Andres004/saludador-1/commit/HEAD"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 19,
+      "deletions": 3,
       "date": "2026-02-17"
     },
     "coverage": 100,

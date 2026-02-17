@@ -18,9 +18,15 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ded6511c34a0b00696517060c75f95c1be50de7e",
     "commitName": "fix: correccion de return en la funcion saludar en saludador.js",
     "commitTimestamp": 1771353112371,
     "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementaccion el prefijo sr o sra. segun el genero de la persona",
+    "commitTimestamp": 1771353699154,
+    "testId": 4
   }
 ]
