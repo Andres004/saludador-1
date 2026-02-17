@@ -25,6 +25,5 @@ formMultiply.addEventListener("submit", (event) => {
 
   const firstNumberMultiply = Number.parseInt(firstMultipy.value);
   const secondNumberMultiply = Number.parseInt(secondMultiply.value);
-
   divMultiply.innerHTML = "<p>" + multiplicar(firstNumberMultiply, secondNumberMultiply) + "</p>";
 });
