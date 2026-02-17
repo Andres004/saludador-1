@@ -9,9 +9,9 @@ function saludar(nombre,hora)
     saludo = "Buenas noches";
   }
   if(nombre){
-    return "Hola " + " "+ nombre;
+    return saludo + " " + nombre;
   }
-  return "Hola";
+  return saludo;
 }
 
 export default saludar;

@@ -38,17 +38,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "bf1777a08a90467f7927cca2bc140f6d20a29b98",
     "author": "unknown",
     "commit": {
       "date": "2026-02-17T18:27:33.000Z",
       "message": "feat: implementacion de saludar de acuerdo a la hora del dia",
-      "url": "https://github.com/Andres004/saludador-1/commit/HEAD"
+      "url": "https://github.com/Andres004/saludador-1/commit/bf1777a08a90467f7927cca2bc140f6d20a29b98"
     },
     "stats": {
       "total": 16,
       "additions": 13,
       "deletions": 3,
+      "date": "2026-02-17"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "unknown",
+    "commit": {
+      "date": "2026-02-17T18:31:51.000Z",
+      "message": "fix: correccion de return en la funcion saludar en saludador.js",
+      "url": "https://github.com/Andres004/saludador-1/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
       "date": "2026-02-17"
     },
     "coverage": 100,
