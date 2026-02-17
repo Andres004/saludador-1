@@ -1,6 +1,7 @@
+
 import sumar from "./sumador";
 import multiplicar from "./multiplicador"; 
-import saludar from "./saludador";
+import saludar from "./saludador"; 
 
 const first = document.querySelector("#primer-numero");
 const second = document.querySelector("#segundo-numero");
@@ -31,9 +32,11 @@ formMultiply.addEventListener("submit", (event) => {
 });
 
 const formSaludar = document.querySelector("#saludar-form");
+const nombreInput = document.querySelector("#nombre-input");
 const divSaludar = document.querySelector("#resultado-saludo-div");
 
 formSaludar.addEventListener("submit", (event) => {
   event.preventDefault();
-  divSaludar.innerHTML = "<p>" + saludar() + "</p>";
+  const nombre = nombreInput.value;
+  divSaludar.innerHTML = "<p>" + saludar(nombre) + "</p>";
 });

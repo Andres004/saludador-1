@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "953f49d4d45b3664d69130a231ea63b5f1a9db65",
     "author": "unknown",
     "commit": {
       "date": "2026-02-17T17:31:17.000Z",
       "message": "fix: correccion del nombre del archivo .js del saludador",
-      "url": "https://github.com/Andres004/saludador-1/commit/HEAD"
+      "url": "https://github.com/Andres004/saludador-1/commit/953f49d4d45b3664d69130a231ea63b5f1a9db65"
     },
     "stats": {
       "total": 34983,
       "additions": 26739,
       "deletions": 8244,
+      "date": "2026-02-17"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "unknown",
+    "commit": {
+      "date": "2026-02-17T18:20:34.000Z",
+      "message": "feat: implementacion de saludar por nombre",
+      "url": "https://github.com/Andres004/saludador-1/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 11,
+      "deletions": 3,
       "date": "2026-02-17"
     },
     "coverage": 100,
