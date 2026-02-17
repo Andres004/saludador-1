@@ -29,6 +29,7 @@
     "parcel": "^2.12.0"
   },
   "dependencies": {
+    "parcel-bundler": "^1.12.5",
     "parcel-jest-base": "file:"
   }
 }
