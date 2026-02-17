@@ -95,16 +95,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "38238846ea8489bb07d1e558d6345b66fdb91b45",
     "author": "unknown",
     "commit": {
       "date": "2026-02-17T18:49:33.000Z",
       "message": "feat: implementacon de edad para el saludo",
-      "url": "https://github.com/Andres004/saludador-1/commit/HEAD"
+      "url": "https://github.com/Andres004/saludador-1/commit/38238846ea8489bb07d1e558d6345b66fdb91b45"
     },
     "stats": {
       "total": 15,
       "additions": 12,
+      "deletions": 3,
+      "date": "2026-02-17"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "unknown",
+    "commit": {
+      "date": "2026-02-17T18:52:54.000Z",
+      "message": "fix: correccion de la funcion saludar, en saludador.js",
+      "url": "https://github.com/Andres004/saludador-1/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 3,
       "deletions": 3,
       "date": "2026-02-17"
     },

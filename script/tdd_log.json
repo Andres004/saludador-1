@@ -30,9 +30,15 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "38238846ea8489bb07d1e558d6345b66fdb91b45",
     "commitName": "feat: implementacon de edad para el saludo",
     "commitTimestamp": 1771354173961,
     "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: correccion de la funcion saludar, en saludador.js",
+    "commitTimestamp": 1771354375062,
+    "testId": 6
   }
 ]

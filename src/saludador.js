@@ -1,6 +1,6 @@
 function saludar(nombre,hora,genero,edad) 
 {
-  let saludo = "Hola";
+  let saludo = " ";
   if (hora >= 6 && hora < 12) {
     saludo = "Buen día";
   } else if (hora >= 12 && hora < 18) {
@@ -9,8 +9,8 @@ function saludar(nombre,hora,genero,edad)
     saludo = "Buenas noches";
   }
 
-  let titulo = "";
-  if(edda>30)
+  let titulo = " ";
+  if(edad>30)
   {
   if (genero === "masculino") {
     titulo = "Sr.";
