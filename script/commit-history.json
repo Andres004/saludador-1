@@ -19,16 +19,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d70fb5511a3e54c5709ba4b312ca6ade37efd2d4",
     "author": "unknown",
     "commit": {
       "date": "2026-02-17T18:20:34.000Z",
       "message": "feat: implementacion de saludar por nombre",
-      "url": "https://github.com/Andres004/saludador-1/commit/HEAD"
+      "url": "https://github.com/Andres004/saludador-1/commit/d70fb5511a3e54c5709ba4b312ca6ade37efd2d4"
     },
     "stats": {
       "total": 14,
       "additions": 11,
+      "deletions": 3,
+      "date": "2026-02-17"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "unknown",
+    "commit": {
+      "date": "2026-02-17T18:27:33.000Z",
+      "message": "feat: implementacion de saludar de acuerdo a la hora del dia",
+      "url": "https://github.com/Andres004/saludador-1/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 13,
       "deletions": 3,
       "date": "2026-02-17"
     },

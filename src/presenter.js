@@ -38,5 +38,7 @@ const divSaludar = document.querySelector("#resultado-saludo-div");
 formSaludar.addEventListener("submit", (event) => {
   event.preventDefault();
   const nombre = nombreInput.value;
-  divSaludar.innerHTML = "<p>" + saludar(nombre) + "</p>";
+  const fechaActual = new Date();
+  const horaActual = fechaActual.getHours();
+  divSaludar.innerHTML = "<p>" + saludar(nombre,horaActual) + "</p>";
 });
